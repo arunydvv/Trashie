@@ -1,36 +1,67 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# Trashie: AI-Powered Waste Management Platform
 
-First, run the development server:
+  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Welcome to **Trashie**, an innovative AI-powered waste management platform built with the latest **Next.js 14**. This project aims to revolutionize waste management by creating a community-driven ecosystem that incentivizes users to report and manage waste effectively. By combining cutting-edge technologies like **Google's Gemini AI**, **Web3Auth**, and **Drizzle ORM**, Zero2Hero offers a seamless and rewarding experience for eco-conscious individuals.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+  
 
-## Learn More
+## 🚀 Features
 
-To learn more about Next.js, take a look at the following resources:
+  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-  **AI-Assisted Waste Verification**: Leverage Google's Gemini AI to verify waste reports and ensure accuracy.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+-  **User Reward System**: Earn points and rewards for eco-friendly actions like reporting waste and participating in clean-up tasks.
 
-## Deploy on Vercel
+-  **Real-Time Task Management**: Track waste collection tasks in real-time for efficient waste management.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+-  **Interactive Leaderboard**: Compete with others in the community and climb the leaderboard by contributing to a cleaner environment.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+  
+
+
+
+  
+
+## 📚 Project Highlights
+
+  
+
+-  **AI-Powered Waste Verification**: Use AI to validate waste reports and ensure data accuracy.
+
+-  **Community Engagement**: Foster a sense of community with an interactive leaderboard and reward system.
+
+-  **Real-Time Updates**: Provide real-time updates on waste collection tasks and user progress.
+
+-  **Eco-Friendly Incentives**: Reward users for their contributions to a cleaner environment.
+
+  
+
+
+  
+
+## 🛠️ Technologies Used
+
+  
+
+-  **Frontend**: Next.js 14, Tailwind CSS, TypeScript
+
+-  **Backend**: Next.js API Routes, Drizzle ORM
+
+-  **AI**: Google's Gemini AI
+
+-  **Authentication**: Web3Auth
+
+-  **Database**: PostgreSQL (or any supported database by Drizzle ORM)
+
+-  **Deployment**: Vercel, Netlify, or any preferred platform
+
+  
+
+---
